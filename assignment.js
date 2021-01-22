@@ -1,3 +1,4 @@
+// Ripo link: https://github.com/nayancm/assignment-three
 
 // kilometerToMeter function start here.=========01=========
 function kilometerToMeter(kilometer){
@@ -109,7 +110,7 @@ function megaFriend(friends){
 
 }
 
-console.log(megaFriend(friends));
+//console.log(megaFriend(friends));
 // megaFriend function end here.=============04=============
 
 
