@@ -1,4 +1,5 @@
-// Ripo link: https://github.com/nayancm/assignment-three
+// https://github.com/nayancm/assignment-three
+
 
 // kilometerToMeter function start here.=========01=========
 function kilometerToMeter(kilometer){
@@ -99,7 +100,7 @@ function megaFriend(friends){
     if(friends.length == 0){
         console.log("Your array is empty. Please write some name in 'friends' array.");
     }
-    else{
+    else{     //we know arry index start with 0(zero)
         for(var i = 0; i < friends.length; i++){
             if(friends[i].length > bigName.length){
                 bigName = friends[i];
